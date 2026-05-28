@@ -21,11 +21,11 @@ Both territories show a clear upward revenue trend from 2022 to 2025
 
 Tools Used
 
-Python 3
-Pandas
-NumPy
-Matplotlib
-Jupyter Notebook
+Python,
+Pandas,
+NumPy,
+Matplotlib,
+Jupyter Notebook,
 Git / GitHub
 
 
