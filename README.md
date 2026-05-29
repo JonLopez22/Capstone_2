@@ -58,4 +58,4 @@ Tools Used
 
 Video Walkthrough
 
-[Link to be added]
+[https://yearuptemp-my.sharepoint.com/personal/dsharma_yearup_org/_layouts/15/stream.aspx?id=%2Fpersonal%2Fdsharma_yearup_org%2FDocuments%2FData+Analytics_Class+7%2FCapstone+2+-+Self+Recorded%2FEmporium_Presentation.mp4&referrer=StreamWebApp.Web&referrerScenario=AddressBarCopied.view.80150678-499b-4a52-99f7-895e2b4a37c6]
